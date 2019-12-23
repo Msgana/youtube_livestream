@@ -11,7 +11,7 @@ Below is a list of the hardware used to for the system.
   * Raspberrpi mini Camera module 10MP
   * Platform to run python script
   
-# Python Libraries
+## Python Libraries
 Below is a list of python dependencies.
  * import subprocess
  * Create Youtube Beta account and get stream url and key
