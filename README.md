@@ -7,16 +7,14 @@ This program is developed to stream a live video feed to the Phoenix College NAS
 
 ## Hardware
 Below is a list of the hardware used to for the system.
-
-RaspberryPi 3B
-Raspberrpi mini Camera module 10MP
-
-#Platform to run python script
-
-Python Libraries
+  * RaspberryPi 3B
+  * Raspberrpi mini Camera module 10MP
+  * Platform to run python script
+  
+# Python Libraries
 Below is a list of python dependencies.
-import subprocess
-Create Youtube Beta account and get stream url and key
+ * import subprocess
+ * Create Youtube Beta account and get stream url and key
 
 ## How it works
 stream.py is apython code that runs a subprocess of bash script that will tell the raspi-cam to start taking a video stream using the raspivid command tool to stream it to Phoenix College NASA ASCEND youtube channel. 
