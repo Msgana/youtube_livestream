@@ -20,7 +20,7 @@ Below is a list of python dependencies.
 stream.py is a python code that runs a subprocess of bash script that will tell the raspi-cam to start taking a video stream using the raspivid command tool to stream it to Phoenix College NASA ASCEND youtube channel. 
 
 ## Troubleshooting
-The rasperrypi cameras tend to break quickly make sure there is a back up camera in case there is an issue.
+The raspberry pi cameras tend to break quickly make sure there is a back up camera in case there is an issue.
 
 ## Notes
 The program runs as long as there is a connection between the payload and the ground station. There might be a short delay untill all the packets arrive to be streamed to youtube.
