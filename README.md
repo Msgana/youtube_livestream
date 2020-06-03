@@ -8,7 +8,7 @@ This program is developed to stream a live video feed to the Phoenix College NAS
 ## Hardware
 Below is a list of the hardware used to for the system.
   * RaspberryPi 3B
-  * Raspberrpi mini Camera module 10MP
+  * Raspberrypi mini Camera module 10MP
   * Platform to run python script
   
 ## Python Libraries
