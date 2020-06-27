@@ -6,7 +6,7 @@ from time import sleep
 
 #Streamkey from the youtube channel (key changes sometimes!)
 
-print "startiing youtube livestream ....."
+print "starting youtube livestream ....."
 
 print("Live streaming started!")
 
